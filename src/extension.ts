@@ -118,7 +118,7 @@ async function showMenu(options: string[], message: string) {
 	const option = await vscode.window.showQuickPick(options, {
 		placeHolder: message
 	});
-	return option
+	return option;
 }
 
 export function deactivate() {}

@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "djangocontrol.helloWorld",
-        "title": "Hello World"
+        "command": "djangocontrol.djangoCommands",
+        "title": "DjangoControl"
       }
     ]
   },

@@ -1,6 +1,7 @@
 {
   "name": "djangocontrol",
   "displayName": "DjangoControl",
+  "publisher": "Antonio-Ruz",
   "description": "DjangoControl is an application that made more easly to manage django",
   "version": "0.0.1",
   "engines": {
